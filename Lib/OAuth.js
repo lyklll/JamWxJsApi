@@ -1,3 +1,7 @@
+/**
+ * 微信网页授权相关接口
+ * create By Jam 2019-05-25 17:39
+ */
 var requester = require('request');
 var authParams = {}
 var auth = function (options) {
