@@ -1,0 +1,26 @@
+{
+  "name": "jamwxjsapi",
+  "version": "1.0.0",
+  "description": "微信的jsapi服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyklll/JamWxJsApi.git"
+  },
+  "keywords": [
+    "微信",
+    "jsapi"
+  ],
+  "author": "Jam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyklll/JamWxJsApi/issues"
+  },
+  "homepage": "https://github.com/lyklll/JamWxJsApi#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
